@@ -11,6 +11,7 @@ Original District Summary
 Modified District Summary
 ![Modified District Summary](https://github.com/shaneabbley/School_District_Analysis/blob/main/Resources/Modified%20District%20Summary.png)
 * As seen above the effect of the removal of the scores of 9th grade students from Thomas High School had little impact on data at the district level. Slight decreases in passing percentage are observed.
+
 Original Thomas High School Summary
 ![Orginial District Summary](https://github.com/shaneabbley/School_District_Analysis/blob/main/Resources/Original%20School%20Summary.png)
 Modified Thomas High School Summary
