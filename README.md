@@ -11,7 +11,11 @@ Original District Summary
 Modified District Summary
 ![Modified District Summary](https://github.com/shaneabbley/School_District_Analysis/blob/main/Resources/Modified%20District%20Summary.png)
 * As seen above the effect of the removal of the scores of 9th grade students from Thomas High School had little impact on data at the district level. Slight decreases in passing percentage are observed.
-* The only changes in the school summary were seen for Thomas High School. In figures 2(a) and 2(b) a slight decrease in the math score and a slight increase in the reading score is observed.
+Original Thomas High School Summary
+![Orginial District Summary](https://github.com/shaneabbley/School_District_Analysis/blob/main/Resources/Original%20School%20Summary.png)
+Modified Thomas High School Summary
+![Modified District Summary](https://github.com/shaneabbley/School_District_Analysis/blob/main/Resources/Modified%20School%20Summary.png)
+* The only changes in the school summary were seen for Thomas High School. In the figures above a slight decrease in the math score and a slight increase in the reading score is observed.
 * The overall passing percentage decreased for Thomas High School; however, it is ranked 2nd regardless of the presence of the dubious data.
 * Math and reading scores by grade are affected as expected, that is, there is no 9th grade data at Thomas High School.
 * The scores by school spending, the scores by school size, and the scores by school type were not noticeably changed.
