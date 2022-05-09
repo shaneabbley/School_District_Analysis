@@ -6,7 +6,7 @@ Maria has asked us to clean the school districts math and reading scores data. S
 In order to accomplish this, we utilized Jupyter Notebooks and pandas to write python code that cleaned, organized, and analyzed the students testing data. 
 ### Analysis
 #### Results
-![figure 1(a)](https://github.com/shaneabbley/School_District_Analysis/Resources/main/Resources/Original District Summary.png)
+![figure 1(a)](https://github.com/shaneabbley/School_District_Analysis/Resources/Original District Summary.png)
 * As seen in the images in figure 1(a) and 1(b) the effect of the removal of the scores of 9th grade students from Thomas High School had little impact on data at the district level. Slight decreases in passing percentage are observed.
 * The only changes in the school summary were seen for Thomas High School. In figures 2(a) and 2(b) a slight decrease in the math score and a slight increase in the reading score is observed.
 * The overall passing percentage decreased for Thomas High School; however, it is ranked 2nd regardless of the presence of the dubious data.
